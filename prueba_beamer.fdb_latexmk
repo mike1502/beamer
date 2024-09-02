@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1725254537.74266 "c:/Users/Miguel/Documents/GitHub/beamer/prueba_beamer.tex" "prueba_beamer.pdf" "prueba_beamer" 1725254543.37653 0
-  "c:/Users/Miguel/Documents/GitHub/beamer/prueba_beamer.tex" 1725254527 319 34597b74636f7f79528157149c737abf ""
+["pdflatex"] 1725255229.85919 "c:/Users/Miguel/Documents/GitHub/beamer/prueba_beamer.tex" "prueba_beamer.pdf" "prueba_beamer" 1725255232.73507 0
+  "c:/Users/Miguel/Documents/GitHub/beamer/prueba_beamer.tex" 1725255227 397 1347e72c86a7cee4afc277fa3cc87798 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1719953322 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1719949308 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1719949308 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -166,10 +166,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719974041 5528846 91b99e8394d18a4b5d82e39a7eb42706 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719974242 8239195 7ea0669a656f46f58379aefccf82e2e8 ""
   "c:/texlive/2024/texmf.cnf" 1719973997 713 e69b156964470283e0530f5060668171 ""
-  "prueba_beamer.aux" 1725254542 995 08c6ce7f3316ca5299bf3cb0d9afa73a "pdflatex"
-  "prueba_beamer.nav" 1725254542 551 59f034b91b30967d1bfe0c66cf7c213d "pdflatex"
-  "prueba_beamer.out" 1725254542 103 47949ac7c3dcedddeefe3cd50587dda1 "pdflatex"
-  "prueba_beamer.tex" 1725254527 319 34597b74636f7f79528157149c737abf ""
+  "prueba_beamer.aux" 1725255232 1119 096e7d7b675f069e0e6cbc8cc5d57516 "pdflatex"
+  "prueba_beamer.nav" 1725255232 639 36a5e952037bfb7b70583d91d96cb966 "pdflatex"
+  "prueba_beamer.out" 1725255232 103 47949ac7c3dcedddeefe3cd50587dda1 "pdflatex"
+  "prueba_beamer.tex" 1725255227 397 1347e72c86a7cee4afc277fa3cc87798 ""
   (generated)
   "prueba_beamer.aux"
   "prueba_beamer.log"
